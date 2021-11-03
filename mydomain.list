@@ -1,0 +1,14 @@
+# NAME: mydomain
+# AUTHOR: jiotong
+# REPO: https://github.com/jiotong/ios_rule
+# UPDATED: 2021-11-3
+IP-CIDR,43.129.222.2/24,no-resolve
+IP-CIDR,193.123.242.0/16,no-resolve
+IP-CIDR,193.123.230.0/16,no-resolve
+IP-CIDR,13.107.136.0/22,no-resolve
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,jjboom.online
+DOMAIN-SUFFIX,greedcrow.tk
+DOMAIN-SUFFIX,lakecross233.ml
+DOMAIN-SUFFIX,lakecross233.tk
+DOMAIN-KEYWORD,emby
