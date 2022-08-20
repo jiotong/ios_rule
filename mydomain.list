@@ -3,6 +3,18 @@
 # REPO: https://github.com/jiotong/ios_rule
 # UPDATED: 2021-11-3
 IP-CIDR,43.154.211.82/24,no-resolve
+DOMAIN-SUFFIX,democlub.cf
+DOMAIN-SUFFIX,democlub.ga
+DOMAIN-SUFFIX,democlub.gq
+DOMAIN-SUFFIX,democlub.ml
+DOMAIN-SUFFIX,democlub.tk
 DOMAIN-SUFFIX,greedcrow.tk
+DOMAIN-SUFFIX,jjboom.cf
+DOMAIN-SUFFIX,jjboom.eu.org
+DOMAIN-SUFFIX,jjboom.ga
+DOMAIN-SUFFIX,jjboom.gq
+DOMAIN-SUFFIX,jjboom.ml
 DOMAIN-SUFFIX,lakecross233.ml
 DOMAIN-SUFFIX,lakecross233.tk
+DOMAIN-SUFFIX,omanko.eu.org
+DOMAIN-SUFFIX,pikachu.eu.org
