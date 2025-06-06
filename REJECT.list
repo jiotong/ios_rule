@@ -1,0 +1,20 @@
+# NAME: REJECT
+# AUTHOR: jiotong
+# REPO: https://github.com/jiotong/ios_rule
+# UPDATED: 2025-06-06
+IP-CIDR,43.154.211.82/24,no-resolve
+DOMAIN-SUFFIX,oscp.apple.com
+DOMAIN-SUFFIX,oscp2.appe.com
+DOMAIN-SUFFIX,certs.apple.com
+DOMAIN-SUFFIX,crl.apple.com
+DOMAIN-SUFFIX,crl.entrust.net
+DOMAIN-SUFFIX,crl3.digicert.com
+DOMAIN-SUFFIX,crl4.digicert.com
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp.digicert.cn
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,ocsp.entrust.net
+DOMAIN-SUFFIX,ocsp2.apple.com
+DOMAIN-SUFFIX,valid.apple.com
+DOMAIN-SUFFIX,ppq.apple.com
+DOMAIN-SUFFIX,ppq-ext.v.aaplimg.com
